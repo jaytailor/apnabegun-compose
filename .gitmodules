@@ -1,0 +1,3 @@
+[submodule "news-server"]
+	path = news-server
+	url = git@github.com:jaytailor/news-server.git
